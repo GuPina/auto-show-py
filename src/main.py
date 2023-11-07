@@ -10,3 +10,4 @@ def build_api() -> FastAPI:
     return application
 
 app = build_api()
+
